@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntStreamProblem", "IntStreamProblem.csproj", "{4F8767C0-A61D-42A8-A92C-DCB6865119F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8767C0-A61D-42A8-A92C-DCB6865119F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8767C0-A61D-42A8-A92C-DCB6865119F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8767C0-A61D-42A8-A92C-DCB6865119F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8767C0-A61D-42A8-A92C-DCB6865119F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47564157-3008-4580-8B02-E0BFD6B8199F}
+	EndGlobalSection
+EndGlobal
